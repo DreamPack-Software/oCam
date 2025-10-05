@@ -3,7 +3,7 @@
 
 oCam is a lightweight and easy-to-use screen recording and screenshot tool developed by OhSoft, designed for Windows PCs. It’s popular among gamers, content creators, and tutorial makers because of its simple interface and powerful performance.
 With oCam, users can record anything displayed on their screen — from games and movies to tutorials or software demos. It supports full-screen, window, and custom-area recording, and lets you record system audio and microphone input simultaneously, making it perfect for commentary videos.
-# [Download oCam from the release](https://github.com/DreamPack-Software/oCam/releases/)
+# [Download oCam from the release](https://github.com/DreamPack-Software/oCam/releases/download)
 Key features include:
 
 🎥 High-quality video capture (supports MP4, AVI, FLV, MOV, and more).
